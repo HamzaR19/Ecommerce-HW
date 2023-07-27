@@ -30,7 +30,7 @@ Clone Repo into VScode. After you can run ```npm install``` to install all the p
 
 ## Usage Information
 
-[Link to Video](https://www.youtube.com/watch?v=ggIqoxFuFig)
+* [Link to Video](https://www.youtube.com/watch?v=ggIqoxFuFig)
 
 ## Contribution Guidelines
 
